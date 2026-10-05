@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.env
+data/cinematch.db
+*.pyc
+.streamlit/secrets.toml
+venv/
+.venv/
